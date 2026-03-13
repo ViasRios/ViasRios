@@ -16,12 +16,12 @@
     <img align="center" alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ViasRios.ViasRios&color=36BCF7">
   </a>
 </p>
----
-👨‍💻 As a Computer Engineering Student & Data Enthusiast, I focus on building efficient, automated solutions. I enjoy bridging the gap between raw data and real-world impact through robust backend development and statistical modeling.
 
-💬 Ask me about: FastAPI, SQL Database Re-engineering, and developing Automated Early Warning Systems for public health.
+-👨‍💻 As a Computer Engineering Student & Data Enthusiast, I focus on building efficient, automated solutions. I enjoy bridging the gap between raw data and real-world impact through robust backend development and statistical modeling.
 
-🌱 I’m diving deeper into: Advanced Machine Learning (Regressions & Decision Trees) and optimizing data pipelines for predictive analytics.
+-💬 Ask me about: FastAPI, SQL Database Re-engineering, and developing Automated Early Warning Systems for public health.
+
+-🌱 I’m diving deeper into: Advanced Machine Learning (Regressions & Decision Trees) and optimizing data pipelines for predictive analytics.
 
 ## 🛠 &nbsp;Tech Stack
 
