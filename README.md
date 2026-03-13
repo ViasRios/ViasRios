@@ -11,12 +11,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Engineering;Python+%26+SQL;Automation+%26+Data+Science;Building+Dengue+Early+Warning+Systems;Open+to+collaboration!+🚀"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ViasRios" align="center">
-    <img align="center" alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ViasRios.ViasRios&color=36BCF7">
-  </a>
-</p>
-
 -👨‍💻 As a Computer Engineering Student & Data Enthusiast, I focus on building efficient, automated solutions. I enjoy bridging the gap between raw data and real-world impact through robust backend development and statistical modeling.
 
 -💬 Ask me about: FastAPI, SQL Database Re-engineering, and developing Automated Early Warning Systems for public health.
@@ -88,6 +82,11 @@
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
+<p align="center">
+  <a href="https://github.com/ViasRios" align="center">
+    <img align="center" alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ViasRios.ViasRios&color=36BCF7">
+  </a>
+</p>
 
 Credit: [ViasRios]
 
