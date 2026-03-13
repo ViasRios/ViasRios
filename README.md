@@ -62,24 +62,22 @@
  ### 💳 Github Profile Summary Card
  
  <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViasRios&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViasRios&theme=algolia" />
 </div>
  
  ### ⏱ Streak Stats
  
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViasRios&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
+<div align="center">
+<a href="https://git.io/streak-stats">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ViasRios&theme=tokyonight&background=0D1117&border=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&dates=FFFFFF" />
+</a>
+</div>
 
 ### 📊 Most Used Language
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=ViasRios&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViasRios&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&bg_color=0D1117" />
+</div>
  
 ### 🔗 &nbsp;Contact Me
 
